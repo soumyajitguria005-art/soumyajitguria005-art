@@ -1,6 +1,12 @@
-<h1 align="left">Hi 👋, I'm Soumyajit</h1>
+<h1 align="center">Hi 👋, I'm Soumyajit</h1>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast+🔐;Ethical+Hacker+in+Progress+💻;Breaking+%26+Securing+Systems+⚔️;Future+Security+Expert+🚀" />
+</p>
+
+---
+
+<p align="center">
 💻 Cybersecurity Enthusiast 🔐 <br>
 Exploring the world of Ethical Hacking & Security — I break things to understand them, then rebuild them stronger. <br><br>
 
@@ -11,17 +17,25 @@ Exploring the world of Ethical Hacking & Security — I break things to understa
 
 ---
 
-## 🚀 Languages and Tools I Use
+## 🚀 Languages and Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,js,css,html,git,python,ps,ai" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,js,css,html,git,python,ps,ai,linux" />
 </p>
 
 ---
 
-## ⚡ Where to find me
+## 🐍 Contribution Snake
 
-<p align="left">
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Connect with Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/soumyajit005" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
