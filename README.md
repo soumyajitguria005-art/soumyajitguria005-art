@@ -1,8 +1,5 @@
 <h1>Hi 👋, I'm </h1>
-<p>👾 Soumyajit | Cybersecurity 
-  🔐 Exploring the world of Ethical Hacking & Security  I break things to understand them — then rebuild them stronger. Passionate about identifying vulnerabilities and securing systems.  
-  🧠 Learning Path: - Penetration Testing - Network Security - Linux & Scripting - Cyber Fundamentals  
-  ⚔️ Philosophy: > Trust nothing. Secure everything.  🚀 On a journey to become a cybersecurity expert.</p>
+<p>👾 Soumyajit | Cybersecurity 🔐 Exploring the world of Ethical Hacking & Security  I break things to understand them — then rebuild them stronger. Passionate about identifying vulnerabilities and securing systems.  🧠 Learning Path: - Penetration Testing - Network Security - Linux & Scripting - Cyber Fundamentals  ⚔️ Philosophy: > Trust nothing. Secure everything.  🚀 On a journey to become a cybersecurity expert.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -10,7 +7,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://i.pinimg.com/1200x/f8/1f/dc/f81fdc42958b880279f0b0f2a7ec82aa.jpg)" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/soumyajit005?utm_source=share_via&utm_content=profile&utm_medium=member_android" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
