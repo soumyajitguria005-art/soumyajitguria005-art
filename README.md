@@ -2,8 +2,7 @@
 
 <p align="left">
 💻 Cybersecurity Enthusiast 🔐 <br>
-Exploring the world of Ethical Hacking & Security — I break things to understand them, then rebuild them stronger. <br><br>
-
+Exploring the world of Ethical Hacking & Security — I break things to understand them, then rebuild them stronger. <br>
 🧠 <b>Learning Path:</b> Penetration Testing • Network Security • Linux • Scripting <br>
 ⚔️ <b>Philosophy:</b> Trust nothing. Secure everything. <br>
 🚀 On a journey to become a cybersecurity expert.
@@ -22,15 +21,15 @@ Exploring the world of Ethical Hacking & Security — I break things to understa
 ## ⚡ Where to find me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/soumyajit005" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=30363D"/>
+<a href="https://www.linkedin.com/in/soumyajit005">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/share/1CA6ukRa2h/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&color=30363D"/>
+<a href="https://www.facebook.com/share/1CA6ukRa2h/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/soumya_jit.exe" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=30363D"/>
+<a href="https://www.instagram.com/soumya_jit.exe">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
 </p>
