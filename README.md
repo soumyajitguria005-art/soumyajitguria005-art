@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soumyajit</h1>
+<h1 align="left">Hi 👋, I'm Soumyajit</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast+🔐;Ethical+Hacker+in+Progress+💻;Breaking+%26+Securing+Systems+⚔️;Future+Security+Expert+🚀" />
-</p>
-
----
-
-<p align="center">
+<p align="left">
 💻 Cybersecurity Enthusiast 🔐 <br>
 Exploring the world of Ethical Hacking & Security — I break things to understand them, then rebuild them stronger. <br><br>
 
@@ -17,34 +11,26 @@ Exploring the world of Ethical Hacking & Security — I break things to understa
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Languages and Tools I Use
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,js,css,html,git,python,ps,ai,linux" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,js,css,html,git,python,ps,ai" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Where to find me
 
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Connect with Me
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/soumyajit005" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=30363D"/>
 </a>
 
 <a href="https://www.facebook.com/share/1CA6ukRa2h/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&color=30363D"/>
 </a>
 
 <a href="https://www.instagram.com/soumya_jit.exe" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=30363D"/>
 </a>
 </p>
